@@ -1,0 +1,19 @@
+#include <iostream> 
+
+using namespace std;
+
+int main() {
+
+    int num[5] = { 1,2,3,4,5 }; //one demensional array
+
+    int* ptr = num; //pointer on one demensional array
+
+
+    for (int i = 0; i < 5; i++) {
+
+        cout << "Place: " << i << " number: " << *(ptr + i) << endl; //output with pointer 
+    }
+
+    return 0;
+}
+
