@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
 
-    int num[5] = { 1,2,3,4,5 }; //one demensional array
+    int num[5] = { 1,2,3,4,5 }; //one dimensional array
 
-    int* ptr = num; //pointer on one demensional array
+    int* ptr = num; //pointer on one dimensional array
 
 
     for (int i = 0; i < 5; i++) {
