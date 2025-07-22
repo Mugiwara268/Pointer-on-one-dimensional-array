@@ -14,6 +14,6 @@ int main() {
         cout << "Place: " << i << " number: " << *(ptr + i) << endl; //output with pointer 
     }
 
-    return 0;
+    return 0;//no return
 }
 
