@@ -1,6 +1,6 @@
 #include <iostream>//fpr std
 
-using namespace std;
+using namespace std;//for std
 
 int main() {
 
