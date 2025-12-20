@@ -2,7 +2,7 @@
 
 using namespace std;//for std
 
-int main() {
+int main() {//main function 
 
     int num[5] = { 1,2,3,4,5 }; //one dimensional array (5 numbers)
 
